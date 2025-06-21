@@ -3,7 +3,7 @@
 % Department of Electrical, Electronic and Telecommunications Engineering, and Naval Architecture (DITEN)
 % University of Genova, Via Opera Pia 11A 16145, Genoa, Italy
 % Website: https://junaidqadirqau.wixsite.com/junaid
-% Email: jqadar@ele.qau.edu.pk  // junaid.qadir@edu.unige.it // junaidqadiqau@gmail.com
+
 
 % Reference: J. Qadir, U. Ullah, B. Sainz-De-Abajo, B. G. Zapirain, G. Marques and I. de la Torre Diez, 
 %"Energy-Aware and Reliability-Based Localization-Free Cooperative Acoustic Wireless Sensor Networks," 
